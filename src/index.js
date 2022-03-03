@@ -1,12 +1,7 @@
 import React from "react";
 import ReactDOM, { render } from "react-dom";
 import axios from "axios";
-import bootstrap from "bootstrap";
-import Button from "react-bootstrap/Button";
 import "./index.css";
-import Dropdown from "react-bootstrap/Dropdown";
-import DropdownButton from "react-bootstrap/DropdownButton";
-import { useState } from "react";
 
 class ChosenFilmRow extends React.Component {
   render() {
