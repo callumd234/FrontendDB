@@ -1,0 +1,84 @@
+body {
+  background: grey;
+  padding: 3rem;
+}
+
+.searchBar input {
+  width: 30%;
+  padding: 8px 10px;
+  box-sizing: border-box;
+  margin: 8px 20px;
+}
+
+.MovieTable {
+  border-radius: 0.5rem;
+  width: 90%;
+  text-align: center;
+  padding: 1.5rem;
+  margin: 1.5rem 00 2.5rem;
+  border: 1px solid;
+  color: black;
+}
+
+.filmid {
+  border: 1px solid;
+}
+
+.titles {
+  border: 1px solid;
+}
+
+.description {
+  border: 1px solid;
+}
+
+.releaseyear {
+  border: 1px solid;
+}
+
+.length {
+  border: 1px solid;
+}
+
+.rating {
+  border: 1px solid;
+}
+
+.genre {
+  border: 1px solid;
+}
+
+.filmreview {
+  border: 1px solid;
+}
+
+.actor {
+  border: 1px solid;
+}
+
+.review {
+  border: 1px solid;
+}
+
+.filmMain {
+  background: beige;
+  padding: 2rem 1.5rem;
+  text-align: center;
+}
+
+td {
+  padding: 10px;
+  border: 1px solid;
+  color: purple;
+}
+
+.title {
+  align-items: left center;
+  text-align: center;
+  color: darkcyan;
+  display: inline-block;
+}
+
+.reviews {
+  border: 1px solid;
+}
