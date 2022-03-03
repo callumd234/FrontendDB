@@ -56,7 +56,7 @@ class FilmTable extends React.Component {
               <th className="titles">Title</th>
               <th className="description">Description</th>
               <th className="releaseyear">Release Year</th>
-              <th className="length">Length (mins)</th>
+              <th className="length">Length (mi</th>
               <th className="rating">Rating</th>
               <th className="genre">Genre</th>
               <th className="filmreview">Film Review</th>
